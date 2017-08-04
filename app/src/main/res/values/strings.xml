@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="login_button">Login</string>
+    <string name="edit_message">Enter message</string>
+    <string name="send_button">Send</string>
+    <string name="set_username">Enter name</string>
+</resources>
